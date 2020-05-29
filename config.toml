@@ -1,6 +1,6 @@
 baseURL = "https://staging.grass.osgeo.org/"
 theme = "grass"
-
+paginate = 15
 
 [params]
 
